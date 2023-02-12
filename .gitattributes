@@ -1,0 +1,4 @@
+*.psd filter=lfs diff=lfs merge=lfs -text
+Assets/Environments/Forest/DreamForestTree/_HDRP_patch/DreamTreesHDRP.unitypackage filter=lfs diff=lfs merge=lfs -text
+Assets/Environments/Forest/DreamForestTree/_URP_patch/DreamTreesURP.unitypackage filter=lfs diff=lfs merge=lfs -text
+Assets/Environments/Forest/DreamForestTree/Materials/ClearSky.psd filter=lfs diff=lfs merge=lfs -text

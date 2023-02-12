@@ -1,0 +1,159 @@
+fileFormatVersion: 2
+guid: 2b3aa40a7a9cf6b48b979ec96fd82f5e
+timeCreated: 1437072656
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Ceiling_lamp
+    100002: hanging_lamp
+    100004: //RootNode
+    100006: Object008
+    100008: Object010
+    100010: Object016
+    100012: Object018
+    100014: Object020
+    100016: Object022
+    100018: Object024
+    100020: Object026
+    100022: Object028
+    100024: Object030
+    100026: Object032
+    100028: Object040
+    100030: Portable_lamp
+    100032: Standinglamp
+    100034: wall_lamp
+    400000: Ceiling_lamp
+    400002: hanging_lamp
+    400004: //RootNode
+    400006: Object008
+    400008: Object010
+    400010: Object016
+    400012: Object018
+    400014: Object020
+    400016: Object022
+    400018: Object024
+    400020: Object026
+    400022: Object028
+    400024: Object030
+    400026: Object032
+    400028: Object040
+    400030: Portable_lamp
+    400032: Standinglamp
+    400034: wall_lamp
+    2300000: Ceiling_lamp
+    2300002: hanging_lamp
+    2300004: Object008
+    2300006: Object010
+    2300008: Object016
+    2300010: Object018
+    2300012: Object020
+    2300014: Object022
+    2300016: Object024
+    2300018: Object026
+    2300020: Object028
+    2300022: Object030
+    2300024: Object032
+    2300026: Object040
+    2300028: Portable_lamp
+    2300030: Standinglamp
+    2300032: wall_lamp
+    3300000: Ceiling_lamp
+    3300002: hanging_lamp
+    3300004: Object008
+    3300006: Object010
+    3300008: Object016
+    3300010: Object018
+    3300012: Object020
+    3300014: Object022
+    3300016: Object024
+    3300018: Object026
+    3300020: Object028
+    3300022: Object030
+    3300024: Object032
+    3300026: Object040
+    3300028: Portable_lamp
+    3300030: Standinglamp
+    3300032: wall_lamp
+    4300000: Ceiling_lamp
+    4300002: Portable_lamp
+    4300004: hanging_lamp
+    4300006: wall_lamp
+    4300008: Standinglamp
+    4300010: Object008
+    4300012: Object010
+    4300014: Object016
+    4300016: Object018
+    4300018: Object020
+    4300020: Object022
+    4300022: Object024
+    4300024: Object026
+    4300026: Object028
+    4300028: Object030
+    4300030: Object032
+    4300032: Object040
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 2
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 1
+    tangentImportMode: 1
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

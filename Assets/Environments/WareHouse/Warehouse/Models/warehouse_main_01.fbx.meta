@@ -1,0 +1,193 @@
+fileFormatVersion: 2
+guid: 5b5298c7ef17e5349a0fd0ab225bc344
+timeCreated: 1451223486
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: concrete
+    100002: decals
+    100004: electronics
+    100006: glass
+    100008: lid_01
+    100010: lid_02
+    100012: metal_frame
+    100014: outlet_01
+    100016: roof
+    100018: telpher
+    100020: vent_01
+    100022: walls
+    100024: //RootNode
+    100026: water_pipe_01
+    100028: water_pipe_02
+    100030: Door_01
+    100032: door_01_decal
+    100034: Door_02
+    100036: door_02_decal
+    100038: Door_03
+    100040: Door_04
+    100042: glass_part
+    100044: glass_part_02
+    100046: window_part
+    100048: window_part_02
+    400000: concrete
+    400002: decals
+    400004: electronics
+    400006: glass
+    400008: lid_01
+    400010: lid_02
+    400012: metal_frame
+    400014: outlet_01
+    400016: roof
+    400018: telpher
+    400020: vent_01
+    400022: walls
+    400024: //RootNode
+    400026: water_pipe_01
+    400028: water_pipe_02
+    400030: Door_01
+    400032: door_01_decal
+    400034: Door_02
+    400036: door_02_decal
+    400038: Door_03
+    400040: Door_04
+    400042: glass_part
+    400044: glass_part_02
+    400046: window_part
+    400048: window_part_02
+    2300000: concrete
+    2300002: decals
+    2300004: electronics
+    2300006: glass
+    2300008: lid_01
+    2300010: lid_02
+    2300012: metal_frame
+    2300014: outlet_01
+    2300016: roof
+    2300018: telpher
+    2300020: vent_01
+    2300022: walls
+    2300024: water_pipe_01
+    2300026: water_pipe_02
+    2300028: Door_01
+    2300030: door_01_decal
+    2300032: Door_02
+    2300034: door_02_decal
+    2300036: Door_03
+    2300038: Door_04
+    2300040: glass_part
+    2300042: glass_part_02
+    2300044: window_part
+    2300046: window_part_02
+    3300000: concrete
+    3300002: decals
+    3300004: electronics
+    3300006: glass
+    3300008: lid_01
+    3300010: lid_02
+    3300012: metal_frame
+    3300014: outlet_01
+    3300016: roof
+    3300018: telpher
+    3300020: vent_01
+    3300022: walls
+    3300024: water_pipe_01
+    3300026: water_pipe_02
+    3300028: Door_01
+    3300030: door_01_decal
+    3300032: Door_02
+    3300034: door_02_decal
+    3300036: Door_03
+    3300038: Door_04
+    3300040: glass_part
+    3300042: glass_part_02
+    3300044: window_part
+    3300046: window_part_02
+    4300000: decals
+    4300002: telpher
+    4300004: glass
+    4300006: walls
+    4300008: concrete
+    4300010: roof
+    4300012: metal_frame
+    4300014: electronics
+    4300016: outlet_01
+    4300018: water_pipe_02
+    4300020: water_pipe_01
+    4300022: vent_01
+    4300024: lid_02
+    4300026: lid_01
+    4300028: window_part_02
+    4300030: glass_part_02
+    4300032: window_part
+    4300034: glass_part
+    4300036: Door_01
+    4300038: door_01_decal
+    4300040: Door_02
+    4300042: door_02_decal
+    4300044: Door_04
+    4300046: Door_03
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 2
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 1
+    tangentImportMode: 1
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
